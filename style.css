@@ -1,0 +1,30 @@
+.jumbotron {
+	text-align: center;
+	background-image: url("https://tyrionlannister.net/wp-content/uploads/2015/04/ghost-game-of-thrones-twitter-header-copy.png");
+	background-height: 800px;
+	height: 400px;
+	font color: white;
+}
+
+.choice {
+	border: 2px black solid;
+	border-radius: 20%;
+	text-align: center;
+	width: 150px;
+}
+
+.choice:hover {
+	cursor: pointer;
+	font-weight: bolder;
+	width: 170px;
+	height: 40px;
+}
+
+
+.headertext {
+	color: white;
+	
+}
+
+
+
